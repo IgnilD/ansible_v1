@@ -1,1 +1,1 @@
-ansible@192.168.6.253
+ansible@192.168.6.253 apache_package=apache2 php_package=libapache2-mod-php
