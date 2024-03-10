@@ -8,3 +8,6 @@ ansible@192.168.6.253
 [file_servers]
 ansible@192.168.6.253
 ansible@192.168.6.252
+
+#[workstations]
+#192.168.6.254
